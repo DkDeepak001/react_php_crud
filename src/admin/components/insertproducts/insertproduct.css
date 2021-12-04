@@ -1,0 +1,36 @@
+.ip_container{
+
+}
+h1{
+    text-align: left;
+    padding-left: 2%;
+}
+.ip_form{
+    width: 50%;
+    text-align: left;
+    margin:2% 3%;
+}
+.ip_form div{
+    margin: 1.1% 0%;
+    display: flex;
+    align-items: center;
+}
+
+.selectlabel{
+    font-size: 20px;
+    margin-right: 2%;
+}
+
+
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
